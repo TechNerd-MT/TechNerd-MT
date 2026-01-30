@@ -1,5 +1,5 @@
 {
-  "name": "DARKZONE-MD",
+  "name": "ÞEŔÇHNÈRÐ-MD",
   "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
   "logo": "https://files.catbox.moe/jecbfo.jpg",
   "keywords": ["DARKZONE-MD"],
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "IK~uxwW1T6J#GGGZqLIYSB-WodteA0xhixOEZOS0_0dnU6dZ6ruG6Nc"
     },  
     
     "STICKER_NAME": {
@@ -22,7 +22,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "!"
     },
     
     "MODE": {
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ERFAN"
+      "value": "MTÈÈGʻÌNÀŁŹ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "26777790341"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DARKZONE-MD"
+      "value": "ÞEŔÇHNÈRÐ-MD"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
+      "value": "*CRAFTER MÞEÈGÌNÀLŹ*"
     },
 
       "DELETE_LINKS": {
