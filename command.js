@@ -1,4 +1,4 @@
-// DARKZONE-MD 
+// Þechnerd-MD
 var commands = [];
 
 function cmd(info, func) {
